@@ -1,9 +1,9 @@
 # Final Project Group -17 - Intelligent Robotic Navigation
 
-| Name                        | UID Number |
-|-----------------------------|------------|
-| Sai Jagadeesh Muralikrishnan| 120172243  |
-| Varun Lakshmanan            | 120169595  |
+| Name                        | E-Mail ID         |
+|-----------------------------|-------------------|
+| Sai Jagadeesh Muralikrishnan| jagkrish@umd.edu  |
+| Varun Lakshmanan            | varunl11@umd.edu  |
 
 This project demonstrates the implementation of Dueling Double DQN performance comparison with eisting DQN Learning with TurtleBot3 in a Gazebo simulation environment. It includes setting up the ROS2 and Gazebo environment, configuring the project, and running training and testing sequences using 2 different deep reinforcement learning algorithms.
 
