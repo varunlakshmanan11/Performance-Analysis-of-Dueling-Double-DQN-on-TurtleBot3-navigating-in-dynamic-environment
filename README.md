@@ -1,4 +1,4 @@
-# Final Project Group -17 - Intelligent Robotic Navigation
+# Performance Analysis of Dueling Double DQN on TurtleBot3 for Navigation in Dynamic Environments
 
 | Name                        | E-Mail ID         |
 |-----------------------------|-------------------|
