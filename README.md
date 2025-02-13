@@ -1,13 +1,22 @@
-# Performance Analysis of Dueling Double DQN on TurtleBot3 for Navigation in Dynamic Environments
+# 🚀 Performance Analysis of Dueling Double DQN on TurtleBot3 for Navigation in Dynamic Environments
 
-This project demonstrates the implementation of Dueling Double DQN performance comparison with existing DQN Learning with TurtleBot3 in a Gazebo simulation environment. It includes setting up the ROS2 and Gazebo environment, configuring the project, and running training and testing sequences using 2 different deep reinforcement learning algorithms.
+This project evaluates and compares the **Dueling Double Deep Q-Network (Dueling Double DQN)** against **Vanilla Deep Q-Network (DQN)** for navigation in a **dynamic Gazebo simulation environment**. Using **TurtleBot3 and ROS2**, we train and test both models to determine which performs better in terms of obstacle avoidance and goal-reaching efficiency.
 
-## Prerequisites
+---
 
-- Ubuntu 20.04 LTS (Focal Fossa)
-- ROS2 Foxy
-- Gazebo 11
-- PyTorch
+## 📌 Key Features
+✅ Implementation of **Dueling Double DQN** to enhance learning efficiency and stability.  
+✅ Performance comparison with **Vanilla DQN** in a **dynamic Gazebo world**.  
+✅ Fully integrated with **ROS2 Foxy & Gazebo 11** for real-time simulation.  
+✅ Training and testing using **PyTorch** and **Reinforcement Learning**.  
+
+---
+
+## 🛠️ Prerequisites
+- **OS:** Ubuntu 20.04 LTS (Focal Fossa) / WSL2 (Ubuntu 20.04)  
+- **ROS2:** Foxy  
+- **Simulator:** Gazebo 11  
+- **ML Framework:** PyTorch  
 
 
 ## Installation
