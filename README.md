@@ -1,10 +1,5 @@
 # Performance Analysis of Dueling Double DQN on TurtleBot3 for Navigation in Dynamic Environments
 
-| Name                        | E-Mail ID         | GitHUB                                           |
-|-----------------------------|-------------------|--------------------------------------------------|
-| Varun Lakshmanan            | varunl11@umd.edu  | https://github.com/varunlakshmanan11             |
-| Sai Jagadeesh Muralikrishnan| jagkrish@umd.edu  | https://github.com/cravotics                     |
-
 This project demonstrates the implementation of Dueling Double DQN performance comparison with existing DQN Learning with TurtleBot3 in a Gazebo simulation environment. It includes setting up the ROS2 and Gazebo environment, configuring the project, and running training and testing sequences using 2 different deep reinforcement learning algorithms.
 
 ## Prerequisites
