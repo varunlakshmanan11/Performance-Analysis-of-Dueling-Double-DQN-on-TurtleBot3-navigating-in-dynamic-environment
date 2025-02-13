@@ -177,7 +177,15 @@ https://drive.google.com/file/d/1NFG_7DQoTRUQjtM-QYpQCgTMvu_C78V3/view?usp=shari
 - Ensure that the folder inside the model name is changed from 'VarunL'
 - Exit all terminals and restart it if any changes are made to the .bashrc file for the changes to take effect.
 
-## References:
+## Contributors
+
+| Name                        | E-Mail ID         | GitHUB                                           |
+|-----------------------------|-------------------|--------------------------------------------------|
+| Varun Lakshmanan            | varunl11@umd.edu  | https://github.com/varunlakshmanan11             |
+| Sai Jagadeesh Muralikrishnan| jagkrish@umd.edu  | https://github.com/cravotics                     |
+
+
+## Acknowledgement:
    Credit - https://github.com/tomasvr/turtlebot3_drlnav
    - This is an review project of how implementing Dueling Double DQN to the existing Vanilla DQN improves the performance of the model we used the turtlebot packages and other codes from the above mentioned github repository. 
    Our part in this project is changing the existing DQN to Dueling Double DQN and adding addtional layers to the main network, changing the activation function, Training and testing the model and so on.
